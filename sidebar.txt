@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nnz:home|Door43 (nnz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nnz|d43-nnz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nnz/archive/master.zip|d43-nnz.zip]]
+
+**Recent Changes**
+{{changes>ns = nnz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nnz|Ethnologue data]]
+
